@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # Psychotherapy and counselling in Mortimer
