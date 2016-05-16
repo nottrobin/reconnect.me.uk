@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Psychotherapy and counselling in Mortimer
+# Marion Winslow
 
-Navigation: [Get in touch](#get-in-touch) &#124; [Frequently asked questions](#frequently-asked-questions) &#124; [Resources](#resources)
+## Psychotherapy and counselling in Mortimer
 
 I use a broad-based, flexible and practical approach to therapy. Everyone has a unique set of questions, experiences strengths and concerns and so the way in which I help you to address your needs is individually based.
 
@@ -61,4 +61,3 @@ Counselling and psychotherapy merge into each other. The word counselling tends 
 
 - [What is mindfulness? (docx)](what-is-mindfulness.docx)
 - [Mindfulness poster (docx)](mindfulness-poster.docx)
-
