@@ -3,7 +3,7 @@
 
 # Psychotherapy and counselling in Mortimer
 
-[Get in touch](#get-in-touch) | [Frequently asked questions](#frequently-asked-questions) | [Resources](#resources)
+Navigation: [Get in touch](#get-in-touch) &#124; [Frequently asked questions](#frequently-asked-questions) &#124; [Resources](#resources)
 
 I use a broad-based, flexible and practical approach to therapy. Everyone has a unique set of questions, experiences strengths and concerns and so the way in which I help you to address your needs is individually based.
 
