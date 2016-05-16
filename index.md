@@ -58,6 +58,6 @@ Counselling and psychotherapy merge into each other. The word counselling tends 
 
 ## Resources
 
-[What is mindfulness? (docx)](what-is-mindfulness.docx)
-[Mindfulness poster (docx)](mindfulness-poster.docx)
+- [What is mindfulness? (docx)](what-is-mindfulness.docx)
+- [Mindfulness poster (docx)](mindfulness-poster.docx)
 
